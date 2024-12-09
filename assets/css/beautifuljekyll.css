@@ -179,10 +179,11 @@ img {
 }
 
 /* .navbar-custom .navbar-brand-logo {
-  -webkit-transition: padding .5s ease-in-out;
-  -moz-transition: padding .5s ease-in-out;
-  transition: padding .5s ease-in-out;
-}  */
+ * -webkit-transition: padding .5s ease-in-out;
+ * -moz-transition: padding .5s ease-in-out;
+ * transition: padding .5s ease-in-out;
+* } 
+*/
 
 .navbar-custom .navbar-brand-logo,
 .navbar-custom.top-nav-short .navbar-brand-logo,
@@ -192,10 +193,11 @@ img {
 }
 
  /*.navbar-custom .navbar-brand-logo img {
-  -webkit-transition: height .5s ease-in-out;
-  -moz-transition: height .5s ease-in-out;
-  transition: height .5s ease-in-out;
-} */
+*  -webkit-transition: height .5s ease-in-out;
+*  -moz-transition: height .5s ease-in-out;
+*  transition: height .5s ease-in-out;
+*} 
+*/
 
 .navbar-custom .navbar-brand-logo img,
 .navbar-custom.top-nav-short .navbar-brand-logo img,
@@ -346,21 +348,22 @@ img {
 }
 
 /*.navbar-custom .avatar-container {
-  position: absolute;
-  left: 50%;
-  width: 3.125rem;
-  bottom: -1.5rem;
-  transition: opacity 0.5s ease-in-out;
-  -webkit-transition: opacity 0.5s ease-in-out;
-  -moz-transition: opacity 0.5s ease-in-out;
-}
-.navbar-custom.top-nav-short .avatar-container {
-  opacity: 0;
-  visibility: hidden;
-  transition: visibility linear 0.5s, opacity 0.5s ease-in-out;
-  -webkit-transition: visibility linear 0.5s, opacity 0.5s ease-in-out;
-  -moz-transition: visibility linear 0.5s, opacity 0.5s ease-in-out;
-} */
+*  position: absolute;
+*  left: 50%;
+*  width: 3.125rem;
+*  bottom: -1.5rem;
+*  transition: opacity 0.5s ease-in-out;
+*  -webkit-transition: opacity 0.5s ease-in-out;
+*  -moz-transition: opacity 0.5s ease-in-out;
+*}
+*.navbar-custom.top-nav-short .avatar-container {
+*  opacity: 0;
+*  visibility: hidden;
+*  transition: visibility linear 0.5s, opacity 0.5s ease-in-out;
+*  -webkit-transition: visibility linear 0.5s, opacity 0.5s ease-in-out;
+*  -moz-transition: visibility linear 0.5s, opacity 0.5s ease-in-out;
+*} 
+*/
 
 .navbar-custom .avatar-container .avatar-img-border {
   width: 100%;
