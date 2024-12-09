@@ -178,11 +178,11 @@ img {
   font-size: 1.125rem;
 }
 
-.navbar-custom .navbar-brand-logo {
+/* .navbar-custom .navbar-brand-logo {
   -webkit-transition: padding .5s ease-in-out;
   -moz-transition: padding .5s ease-in-out;
   transition: padding .5s ease-in-out;
-}
+}  */
 
 .navbar-custom .navbar-brand-logo,
 .navbar-custom.top-nav-short .navbar-brand-logo,
@@ -191,11 +191,11 @@ img {
   padding-bottom: 0.3125rem;
 }
 
-.navbar-custom .navbar-brand-logo img {
+ /*.navbar-custom .navbar-brand-logo img {
   -webkit-transition: height .5s ease-in-out;
   -moz-transition: height .5s ease-in-out;
   transition: height .5s ease-in-out;
-}
+} */
 
 .navbar-custom .navbar-brand-logo img,
 .navbar-custom.top-nav-short .navbar-brand-logo img,
@@ -345,7 +345,7 @@ img {
   color: var(--hover-col);
 }
 
-.navbar-custom .avatar-container {
+/*.navbar-custom .avatar-container {
   position: absolute;
   left: 50%;
   width: 3.125rem;
@@ -360,7 +360,7 @@ img {
   transition: visibility linear 0.5s, opacity 0.5s ease-in-out;
   -webkit-transition: visibility linear 0.5s, opacity 0.5s ease-in-out;
   -moz-transition: visibility linear 0.5s, opacity 0.5s ease-in-out;
-}
+} */
 
 .navbar-custom .avatar-container .avatar-img-border {
   width: 100%;
