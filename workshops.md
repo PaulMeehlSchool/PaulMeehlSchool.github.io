@@ -13,7 +13,8 @@ It is important to note that ECTS credits will be assigned only upon the success
 
 **Registration**
 <div style="text-align: justify;">
-You can register for each workshop on its dedicated page.  Workshops are also open to interested non-members, but please note that each workshop has limited capacity, and members of the Paul Meehl Graduate School have priority enrollment in the workshops. All members receive notifications upon the announcement of workshops. If you are not a member but wish to receive these notifications, </div> please sign up for the [mailing list](https://1d66a74f.sibforms.com/serve/MUIFAJ56Wh_ZiEG2gq1O1CWBwSjTtrq798YhpcS4qFQwKyjE37cjuvk8LKsVXB-B-jVs1WqQpssPIM5NBbxsRkYJ5tur76Q2WxCgLJH88ZMWPxbh8l7z7OgOFqn5WADjijbUXWrPl8AePo4MnovDVkNXXKUM3VwwRn6t5d0i-o9bz0Akn4hV4DHCfQMUUFzys0MRPnfOu8yibXJD).
+You can register for each workshop on its dedicated page.  Workshops are also open to interested non-members, but please note that each workshop has limited capacity, and members of the Paul Meehl Graduate School have priority enrollment in the workshops. All members receive notifications upon the announcement of workshops. If you are not a member but wish to receive these notifications, please sign up for the <a href="https://1d66a74f.sibforms.com/serve/MUIFAJ56Wh_ZiEG2gq1O1CWBwSjTtrq798YhpcS4qFQwKyjE37cjuvk8LKsVXB-B-jVs1WqQpssPIM5NBbxsRkYJ5tur76Q2WxCgLJH88ZMWPxbh8l7z7OgOFqn5WADjijbUXWrPl8AePo4MnovDVkNXXKUM3VwwRn6t5d0i-o9bz0Akn4hV4DHCfQMUUFzys0MRPnfOu8yibXJD"> mailing list</a> 
+</div>
 
 Please note that all workshops will be held <ins>**on-site only**</ins> at Eindhoven University of Technology.
 
