@@ -1,12 +1,9 @@
 ---
 title: "New workshop announced: A Workflow for Open Reproducible Code in Science (WORCS)"
 layout: post
-cover-img: https://content.iospress.com/media/ds/2021/4-1/ds-4-1-ds210031/ds-4-ds210031-g001.jpg
 thumbnail-img: https://content.iospress.com/media/ds/2021/4-1/ds-4-1-ds210031/ds-4-ds210031-g001.jpg
 share-img: https://content.iospress.com/media/ds/2021/4-1/ds-4-1-ds210031/ds-4-ds210031-g001.jpg
 ---
-
-![image](https://content.iospress.com/media/ds/2021/4-1/ds-4-1-ds210031/ds-4-ds210031-g001.jpg){: style="width: 100%; height: 80%"}
 
 We are excited to announce that registration is now open for our first workshop of the new academic year. In the morning session, Casper van Lissa will introduce the fundamental principles of reproducible science, including data sharing and alternative approaches when data cannot be shared. In the afternoon session, we will focus on how to automatically reproduce analyses in the cloud and explore the use of the targets R-package together with WORCS to optimize workflows and enhance the sustainability of computations.
 
