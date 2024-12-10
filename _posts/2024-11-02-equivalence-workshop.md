@@ -2,10 +2,6 @@
 title: "New workshop announced: Equivalence Testing and the Smallest Effect Size of Interest"
 layout: post
 ---
-<div style="text-align: center;">
-    <img src="https://lakens.github.io/statistical_inferences/09-equivalencetest_files/figure-html/fig-tdistequivalence-1.png" alt="TOSTR" style="width: 75%;">
-</div>
-
 
 We are thrilled to announce that registration is now open for our new workshop. In this workshop, Daniel Lakens, Paul Riesthuis, and Jack Fitzgerald will discuss the underlying rationale of interval hypothesis tests  and different approaches to specifying a smallest effect size of interest to test against in an equivalence test. This workshop also contains hands-on practices to perform equivalence tests, as well as more advance topics such as a-priori power analyses for interval hypothesis tests and three-sided hypothesis tests. 
 
