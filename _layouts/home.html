@@ -72,19 +72,26 @@ layout: page
       {% endif %}
 
       <div class="post-entry">
-        {% assign excerpt_length = site.excerpt_length | default: 50 %}
-  
-        {% capture text_excerpt %}
-        {{ post.content | replace: "![image](", "" | replace: "){: style=\"width: 100%; height: 80%\"}", "" | strip_html }}
-        {% endcapture %}
+  {% assign excerpt_length = site.excerpt_length | default: 50 %}
 
-        {{ text_excerpt | truncatewords: excerpt_length }}
-  
-        {% assign excerpt_word_count = text_excerpt | number_of_words %}
-        {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
-          <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
-        {% endif %}
-      </div>
+  {% capture text_excerpt %}
+    {% if post.content contains "![image](" %}
+      {%- assign first_part = post.content | split: "![image](" -%}
+      {%- assign text_only = first_part[1] | split: ")" | last -%}
+      {{ text_only | strip_html }}
+    {% else %}
+      {{ post.content | strip_html }}
+    {% endif %}
+  {% endcapture %}
+
+  {{ text_excerpt | truncatewords: excerpt_length }}
+
+  {% assign excerpt_word_count = text_excerpt | number_of_words %}
+  {% if excerpt_word_count > excerpt_length %}
+    <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
+  {% endif %}
+</div>
+
 
       {% if site.feed_show_tags != false and post.tags.size > 0 %}
       <div class="blog-tags">
