@@ -2,7 +2,7 @@
 title: A Workflow for Open Reproducible Code in Science (WORCS)
 subtitle: December 12, 2024
 author: Daniel Lakens, Paul Riesthuis, and Jack Fitzgerald
-layout: post
+layout: workshop_post
 ---
 
 
