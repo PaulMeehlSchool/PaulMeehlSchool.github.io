@@ -1,0 +1,47 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% assign workshops = paginator.workshops | default: site.workshops %}
+
+<!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
+<ul class="posts-list list-unstyled" role="list">
+  {% for workshop in workshops %}
+  <li class="post-preview">
+    <article>
+
+
+      <a href="{{ workshop.url | absolute_url }}">
+        <h2 class="post-title">{{ workshop.title | strip_html }}</h2>
+
+        {% if workshop.subtitle %}
+          <h3 class="post-subtitle">
+          {{ workshop.subtitle | strip_html }}
+          </h3>
+        {% endif %}
+      </a>
+
+      {% if workshop.author %}
+        <span>By <strong>{{ workshop.author | strip_html }}</strong></span>
+      {% endif %}
+
+      {% if site.feed_show_tags != false and workshop.tags.size > 0 %}
+      <div class="post-tags">
+        <span>Tags:</span>
+        <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
+        <ul class="d-inline list-inline" role="list">
+          {% for tag in blog.tags %}
+          <li class="list-inline-item">
+            <a href="{{ '/tags' | absolute_url }}#{{- tag -}}">{{- tag -}}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+
+    </article>
+  </li>
+  {% endfor %}
+</ul>
