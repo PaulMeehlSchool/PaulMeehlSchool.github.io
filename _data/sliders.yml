@@ -1,0 +1,16 @@
+- selector: slider2
+  bullets: true
+  captions: true
+  images:
+    - src: assets/img/crepe.jpg
+      title: name workshop
+    - src: assets/img/404-southpark.jpg
+      title: name workshop
+      alt: Instead of the default slide effect
+    - src: assets/img/crepe.jpg
+      title: name workshop
+    - src: assets/img/404-southpark.jpg
+      title: name workshop
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
