@@ -72,25 +72,25 @@ layout: page
       {% endif %}
 
       <div class="post-entry">
-  {% assign excerpt_length = site.excerpt_length | default: 50 %}
+         {% assign excerpt_length = site.excerpt_length | default: 50 %}
 
-  {% capture text_excerpt %}
-    {% if post.content contains "![image](" %}
-      {%- assign first_part = post.content | split: "![image](" -%}
-      {%- assign text_only = first_part[1] | split: ")" | last -%}
-      {{ text_only | strip_html }}
-    {% else %}
-      {{ post.content | strip_html }}
-    {% endif %}
-  {% endcapture %}
+         {% capture text_excerpt %}
+            {% if post.content contains "![image](" %}
+            {%- assign first_part = post.content | split: "![image](" -%}
+            {%- assign text_only = first_part[1] | split: ")" | last -%}
+            {{ text_only | strip_html }}
+          {% else %}
+            {{ post.content | strip_html }}
+          {% endif %}
+         {% endcapture %}
 
-  {{ text_excerpt | truncatewords: excerpt_length }}
+         {{ text_excerpt | truncatewords: excerpt_length }}
 
-  {% assign excerpt_word_count = text_excerpt | number_of_words %}
-  {% if excerpt_word_count > excerpt_length %}
-    <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
-  {% endif %}
-</div>
+         {% assign excerpt_word_count = text_excerpt | number_of_words %}
+         {% if excerpt_word_count > excerpt_length %}
+             <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
+         {% endif %}
+      </div>
 
     </article>
   </li>
