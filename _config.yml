@@ -21,7 +21,7 @@ title: Paul meehl Graduate School
 
 navbar-links:
   About: "about"
-  Workshops: "workshops"
+  Workshops: "workshop"
   Membership: "membership"
 
 ################
@@ -255,7 +255,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 #################################################################################
 collections:
-  blogs:
+  workshops:
     output: true
     permalink: /workshops/:title/
 
