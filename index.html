@@ -7,7 +7,8 @@ title: Paul Meehl Graduate School
 <q>Whether a principle is sound—tends to facilitate approaching an epistemic aim—is an empirical question, answerable only by history of science.</q>
 <br>
 <cite> - Paul E. Meehl, 1992</cite> 
-
+<br>
+<br>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -63,10 +64,9 @@ body {font-family: Verdana, sans-serif; margin:0}
 }
 
 .text {
-  color: #f2f2f2;
-  font-size: 15px;
+  color: #000000;
+  font-size: 18px;
   padding: 8px 12px;
-  position: absolute;
   bottom: 8px;
   width: 100%;
   text-align: center;
@@ -92,6 +92,17 @@ body {font-family: Verdana, sans-serif; margin:0}
 
 .active, .dot:hover {
   background-color: #717171;
+}
+
+  /* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+  
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
 }
 
 @media only screen and (max-width: 300px) {
