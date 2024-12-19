@@ -17,13 +17,21 @@ title: Paul Meehl Graduate School
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
 .mySlides {display: none}
-img {vertical-align: middle; width: 450px; height: 350px}
+img {vertical-align: middle;}
 
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
   position: relative;
   margin: 20 50px 0px 50px;
+}
+  .mySlides {
+  aspect-ratio: 16 / 9; /* Set the aspect ratio */
+  overflow: hidden;     /* Hide overflow if images don't fit perfectly */
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /* Next & previous buttons */
