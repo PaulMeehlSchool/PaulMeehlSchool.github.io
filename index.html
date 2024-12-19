@@ -23,7 +23,7 @@ img {vertical-align: middle;}
 .slideshow-container {
   max-width: 1000px;
   position: relative;
-  margin: 20 50px 0px 50px;
+  margin: auto;
 }
   .mySlides {
   aspect-ratio: 16 / 9; /* Set the aspect ratio */
@@ -33,7 +33,12 @@ img {vertical-align: middle;}
   justify-content: center;
   align-items: center;
 }
-
+.mySlides img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain; /* Ensure images cover the container fully */
+}
+  
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
