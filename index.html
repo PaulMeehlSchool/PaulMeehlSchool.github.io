@@ -64,15 +64,19 @@ body {font-family: Verdana, sans-serif; margin:0}
   background-color: rgba(0,0,0,0.8);
 }
 
-.text {
+.caption-container {
+  text-align: center;
+  margin-top: 8px; /* Space between the slideshow and the caption */
+  background-color: #f2f2f2; /* Optional background for better contrast */
+  padding: 8px 12px;
+}
+
+.caption-container .text {
   color: #333; /* Text color for readability */
   font-size: 15px;
-  padding: 8px 12px;
-  text-align: center;
-  background-color: #f2f2f2; /* Optional: Add a background to distinguish the text */
-  margin-top: 8px; /* Space between the image and the caption */
   display: block; /* Ensure it spans the full width */
 }
+
   
 .numbertext {
   color: #f2f2f2;
@@ -108,37 +112,92 @@ body {font-family: Verdana, sans-serif; margin:0}
     <img src="assets/img/20240222_134421.jpg" alt="Slide 1">
     <div class="text">dr. Robbie van Aert - Feb 2024 </div>
   </div>
+  <div class="caption-container">
+    <span class="text">dr. Robbie van Aert - Feb 2024</span>
+  </div>
   <div class="mySlides">
     <img src="assets/img/20240222_163252.jpg" alt="Slide 2">
     <div class="text">Meta-Analysis and Bias Ditection Workshop - Feb 2024</div>
+  </div>
+  <div class="caption-container">
+    <span class="text">Meta-Analysis and Bias Ditection Workshop - Feb 2024</span>
   </div>
   <div class="mySlides">
     <img src="assets/img/20240426_094214.jpg" alt="Slide 3">
     <div class="text">Theory Building Workshop - March 2024</div>
   </div>
+  <div class="caption-container">
+    <span class="text">Theory Building Workshop - March 2024</span>
+  </div>
   <div class="mySlides">
     <img src="assets/img/20240327_094021.jpg" alt="Slide 3">
     <div class="text">Value, Diversity and Epistemic Inclusion in Science Workshop - April 2024</div>
+  </div>
+  <div class="caption-container">
+    <span class="text">Value, Diversity and Epistemic Inclusion in Science Workshop - April 2024</span>
   </div>
    <div class="mySlides">
     <img src="assets/img/20240522_122138.jpg" alt="Slide 3">
     <div class="text">Advanced Topics in Data Simulation - May 2024</div>
   </div>
+  <div class="caption-container">
+    <span class="text">Advanced Topics in Data Simulation - May 2024</span>
+  </div>
    <div class="mySlides">
     <img src="assets/img/20240522_133452.jpg" alt="Slide 3">
     <div class="text">dr. Nick Brown - May 2024</div>
+  </div>
+  <div class="caption-container">
+    <span class="text">dr. Nick Brown - May 2024</span>
+  </div>
+  <div class="mySlides">
+    <img src="assets/img/20240920_134910.jpg" alt="Slide 3">
+    <div class="text">PhD Day Conference Panel - Sep 2024</div>
+  </div>
+  <div class="caption-container">
+    <span class="text">PhD Day Conference Panel - Sep 2024</span>
   </div>
    <div class="mySlides">
     <img src="assets/img/20240920_103505.jpg" alt="Slide 3">
     <div class="text">PhD Day Conference - Sep 2024</div>
   </div>
+  <div class="caption-container">
+    <span class="text">PhD Day Conference - Sep 2024</span>
+  </div>
   <div class="mySlides">
     <img src="assets/img/20240920_111908.jpg" alt="Slide 3">
     <div class="text">PhD Day Conference - Sep 2024</div>
   </div>
+  <div class="caption-container">
+    <span class="text">PhD Day Conference - Sep 2024</span>
+  </div>
    <div class="mySlides">
     <img src="assets/img/20240920_115507.jpg" alt="Slide 3">
     <div class="text">PhD Day Conference - Sep 2024</div>
+  </div>
+  <div class="caption-container">
+    <span class="text">PhD Day Conference - Sep 2024</span>
+  </div>
+  <div class="mySlides">
+    <img src="assets/img/20241023_095605.jpg" alt="Slide 3">
+    <div class="text">A Workflow for Open Reproducible Code in Science - Oct 2024</div>
+  </div>
+  <div class="caption-container">
+    <span class="text">A Workflow for Open Reproducible Code in Science - Oct 2024</span>
+  </div>
+  <div class="mySlides">
+    <img src="assets/img/20241212_162358.jpg" alt="Slide 3">
+    <div class="text">Equivalence Testing and the Smallest Effect Size of Interest - Dec 2024</div>
+  </div>
+  <div class="caption-container">
+    <span class="text">Equivalence Testing and the Smallest Effect Size of Interest - Dec 2024</span>
+  </div>
+  <div class="mySlides">
+    <img src="assets/img/20241212_151026.jpg" alt="Slide 3">
+    <div class="text">Equivalence Testing and the Smallest Effect Size of Interest - Dec 2024</div>
+  </div>
+  <div class="caption-container">
+    <span class="text">Equivalence Testing and the Smallest Effect Size of Interest - Dec 2024</span>
   </div>
   
 
@@ -157,6 +216,9 @@ body {font-family: Verdana, sans-serif; margin:0}
   <span class="dot" onclick="currentSlide(8)"></span> 
   <span class="dot" onclick="currentSlide(9)"></span> 
   <span class="dot" onclick="currentSlide(10)"></span>  
+  <span class="dot" onclick="currentSlide(11)"></span> 
+  <span class="dot" onclick="currentSlide(12)"></span> 
+  <span class="dot" onclick="currentSlide(13)"></span>  
 </div>
 
 <script>
