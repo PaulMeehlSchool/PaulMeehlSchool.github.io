@@ -1,6 +1,7 @@
 ---
 title: "New workshop announced: A Workflow for Open Reproducible Code in Science (WORCS)"
 layout: post
+cover-img: https://content.iospress.com/media/ds/2021/4-1/ds-4-1-ds210031/ds-4-ds210031-g001.jpg
 thumbnail-img: https://content.iospress.com/media/ds/2021/4-1/ds-4-1-ds210031/ds-4-ds210031-g001.jpg
 share-img: https://content.iospress.com/media/ds/2021/4-1/ds-4-1-ds210031/ds-4-ds210031-g001.jpg
 ---
