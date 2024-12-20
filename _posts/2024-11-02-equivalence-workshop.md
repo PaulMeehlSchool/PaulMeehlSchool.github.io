@@ -1,6 +1,7 @@
 ---
 title: "New workshop announced: Equivalence Testing and the Smallest Effect Size of Interest"
 layout: post
+cover-img: https://lakens.github.io/statistical_inferences/09-equivalencetest_files/figure-html/fig-tdistequivalence-1.png
 thumbnail-img: https://lakens.github.io/statistical_inferences/09-equivalencetest_files/figure-html/fig-tdistequivalence-1.png
 share-img: https://lakens.github.io/statistical_inferences/09-equivalencetest_files/figure-html/fig-tdistequivalence-1.png
 ---
