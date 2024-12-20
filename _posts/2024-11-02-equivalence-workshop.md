@@ -12,4 +12,3 @@ You can find more about this workshop [here](https://paulmeehlschool.github.io/w
 
 You can register for this **exclusively in-person** workshop by completing the [registration form](https://forms.office.com/Pages/ResponsePage.aspx?id=R_J9zM5gD0qddXBM9g78ZP_Kihp-VglPgWom9gajHXdURDJHTFU4U1k1NDlTNTEyUEtCQUJYRFRGVS4u). Please make sure to register before <ins>**November 25th**</ins>. Priority will be given to those who are members at Paul Meehl Graduate School. If you wish to become a member, please check the membership criteria on this [page](https://paulmeehlschool.github.io/membership/).
 
-![img](https://lakens.github.io/statistical_inferences/09-equivalencetest_files/figure-html/fig-tdistequivalence-1.png)
