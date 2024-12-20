@@ -1,9 +1,10 @@
 ---
 title: "First PMGS PhD day conference"
 layout: post
+cover-img: https://github.com/PaulMeehlSchool/PaulMeehlSchool.github.io/assets/157975473/7da63854-cdb4-4e44-823f-bffd0785c82b
+thumbnail-img: https://github.com/PaulMeehlSchool/PaulMeehlSchool.github.io/assets/157975473/7da63854-cdb4-4e44-823f-bffd0785c82b
+share-img: https://github.com/PaulMeehlSchool/PaulMeehlSchool.github.io/assets/157975473/7da63854-cdb4-4e44-823f-bffd0785c82b
 ---
-![image](https://github.com/PaulMeehlSchool/PaulMeehlSchool.github.io/assets/157975473/7da63854-cdb4-4e44-823f-bffd0785c82b){: style="width: 100%; height: 80%"}
-
 
 We're excited to announce that registration is now open for the first Paul Meehl Graduate School PhD Day conference. This session can present a great oppuntunity for PhD students to get feedback on their work from experts and peers and creat connections and find future collaborators. 
 
