@@ -22,7 +22,8 @@ If you have any further questions, please contact us at [paulmeehlgraduateschool
 <br>
 You can check our previous workshopd [here](previous.md).
 
-
 <br>
 <br>
 # 2024-2025 Program
+
+<br>
