@@ -20,6 +20,7 @@ Please note that all workshops will be held <ins>**on-site only**</ins> at Eindh
 <br>
 If you have any further questions, please contact us at [paulmeehlgraduateschool@tue.nl](mailto:paulmeehlgraduateschool@tue.nl). 
 <br>
+
 You can check our previous workshopd [here](previous.md).
 
 <br>
