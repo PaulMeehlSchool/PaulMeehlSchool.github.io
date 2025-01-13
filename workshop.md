@@ -19,6 +19,9 @@ You can register for each workshop on its dedicated page.  Workshops are also op
 Please note that all workshops will be held <ins>**on-site only**</ins> at Eindhoven University of Technology.
 <br>
 If you have any further questions, please contact us at [paulmeehlgraduateschool@tue.nl](mailto:paulmeehlgraduateschool@tue.nl). 
-<br>
 
+<br>
+You can check our previous workshopd [here](previous.md)
+<br>
+<br>
 **2024-2025 Program**
