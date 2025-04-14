@@ -37,6 +37,7 @@ Before the session, you need to study the following readings materials and compl
 - Thelwall, M. (2023). Journal and disciplinary variations in academic open peer review anonymity, outcomes, and length. Journal of Librarianship and Information Science, 55(2), 299-312. [https://doi.org/10.1177/09610006221079345](https://doi.org/10.1177/09610006221079345)
 - Gasparyan, A. Y., Gerasimov, A. N., Voronov, A. A., & Kitas, G. D. (2015). Rewarding peer reviewers: maintaining the integrity of science communication. Journal of Korean Medical Science, 30(4), 360-364. [https://doi.org/10.3346/jkms.2015.30.4.360](https://doi.org/10.3346/jkms.2015.30.4.360)
 - Marcoci, A., Vercammen, A., Bush, M., Hamilton, D. G., Hanea, A., Hemming, V., ... & Fidler, F. (2022). Reimagining peer review as an expert elicitation process. BMC Research Notes, 15(1), 127. [https://doi.org/10.1186/s13104-022-06016-0](https://doi.org/10.1186/s13104-022-06016-0)
+
 <br>
 
 ### Capacity
