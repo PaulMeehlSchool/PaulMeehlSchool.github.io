@@ -1,5 +1,5 @@
 ---
-title: Pre-Symposium Mini-Workshop: Coordination Using Github
+title: Pre-Symposium Mini-Workshop - Coordination Using Github
 subtitle: October 16, 2025
 author: Aaron Peikert
 layout: workshop_post
