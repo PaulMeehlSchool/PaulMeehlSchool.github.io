@@ -1,6 +1,6 @@
 ---
 title: Scientific Criticism and Peer Review
-subtitle: June 6, 2025
+subtitle: Decebmer 5, 2025
 author: René Bekkers
 layout: workshop_post
 ---
@@ -48,7 +48,7 @@ This course has a maximum capacity of 35 participants.
 
 ### Time and Location
 
-This workshop will be held <ins>**on-site only**</ins> at Eindhoven University of Technologyon **June 6, 2025**. Details will be provided to all attendees over email after registration for the workshop.
+This workshop will be held <ins>**on-site only**</ins> at Eindhoven University of Technologyon **December 5, 2025**. Details will be provided to all attendees over email after registration for the workshop.
 
 Workshops start from 9:30 to 16:30 with a lunch break from 12:30 to 13:30. Lunch will not be provided but can be purchased at the university canteen or the on-campus supermarket. 
 
@@ -56,7 +56,9 @@ Workshops start from 9:30 to 16:30 with a lunch break from 12:30 to 13:30. Lunch
 
 ### Registration
 
-To register for this workshop, please complete the following form by **May 12th**. Note that your registration will be considered finalized only after receiving a confirmation email.  The registration link will remain open after this date if spots are still available.
+<p style="color:Tomato;"> Due to a previous cancellation, this workshop is being repeated. Priority will be given to those who originally signed up.</p>
+
+To register for this workshop, please complete the following form by **November 7**. Note that your registration will be considered finalized only after receiving a confirmation email.  The registration link will remain open after this date if spots are still available.
 
 [Registration Form](https://forms.office.com/Pages/ResponsePage.aspx?id=R_J9zM5gD0qddXBM9g78ZP_Kihp-VglPgWom9gajHXdUNFo1VUFHTjNTTkk0RzM5UVVHVjFYSDQxWS4u)
 
