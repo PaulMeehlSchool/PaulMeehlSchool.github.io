@@ -1,5 +1,5 @@
 ---
-title: Pre-Symposium Mini-Workshop - Reproducible Research in Collaboration: Writing Academic Texts on GitHub Together
+title: "Pre-Symposium Mini-Workshop - Reproducible Research in Collaboration: Writing Academic Texts on GitHub Together"
 subtitle: October 16, 2025
 author: Aaron Peikert
 layout: workshop_post
