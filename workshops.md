@@ -25,6 +25,6 @@ You can check our previous workshops [here](previous.md).
 
 <br>
 <br>
-# 2024-2025 Program
+# 2025-2026 Program
 
 <br>
