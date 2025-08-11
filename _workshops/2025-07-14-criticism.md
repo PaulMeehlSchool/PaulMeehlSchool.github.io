@@ -1,6 +1,6 @@
 ---
 title: Scientific Criticism and Peer Review
-subtitle: Decebmer 5, 2025
+subtitle: December 5, 2025
 author: René Bekkers
 layout: workshop_post
 ---
