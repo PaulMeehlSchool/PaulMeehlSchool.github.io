@@ -11,6 +11,7 @@ We are pleased to announce that the **program for the second Paul Meehl Graduate
 The symposium will take place on **October 16–17, 2025**, at **Eindhoven University of Technology**.
 
 On **October 16**, we are excited to host **Dr. Aaron Peikert** (Max Planck Institute for Human Development), who will lead a workshop on *Reproducible Research in Collaboration: Writing Academic Texts on GitHub Together*.
+
 👉 To register for this mini-workshop, please complete the following form by **October 1**: [Workshop Registration Form](https://forms.office.com/Pages/ResponsePage.aspx?id=R_J9zM5gD0qddXBM9g78ZP_Kihp-VglPgWom9gajHXdUMDlUNDAyV0ExUVA2OUhTNTVESzQ0UjRQSS4u)
 
 The **main symposium** will take place on **October 17**, featuring presentations by promising early-career researchers alongside our two keynote speakers:
