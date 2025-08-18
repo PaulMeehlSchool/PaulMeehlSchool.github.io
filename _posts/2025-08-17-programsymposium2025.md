@@ -1,4 +1,4 @@
-<img width="612" height="408" alt="image" src="https://github.com/user-attachments/assets/75c92dd6-ea82-4fcd-8fda-a0db08cdf27a" />---
+---
 title: "Symposium Program Announced"
 layout: post
 cover-img: https://www.sgtu.ac.in/_next/image?url=%2Fimages%2FGraphic%2Fconference.jpg&w=1920&q=75
