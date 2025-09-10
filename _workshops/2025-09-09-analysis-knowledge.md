@@ -1,7 +1,7 @@
 ---
 title: Understanding the Analysis Before Making an Inference
 subtitle: March 27, 2026
-author: Chris Snijders, Antal Haans
+author: Chris Snijders and Antal Haans
 layout: workshop_post
 ---
 
