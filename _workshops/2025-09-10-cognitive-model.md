@@ -1,5 +1,5 @@
 ---
-title: Computational Modelling
+title: Evidence Accumulation Models
 subtitle: April 20, 2026
 author: Leendert van Maanen
 layout: workshop_post
