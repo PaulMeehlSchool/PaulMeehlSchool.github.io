@@ -44,4 +44,4 @@ The registration is not yet opened for this workshop.
 
 **Dr. Leendert van Maanen**
 
-Leendert is an Associate Professor in the Department of Experimental Psychology at Utrecht University. His research examines the cognitive mechanisms that underlie information processing and optimal decision-making. He specializes in building and validating computational cognitive models.
+Leendert van Maanen is an Associate Professor in the Department of Experimental Psychology at Utrecht University. His research examines the cognitive mechanisms that underlie information processing and optimal decision-making. He specializes in building and validating computational cognitive models.
