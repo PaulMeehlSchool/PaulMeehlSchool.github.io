@@ -50,7 +50,7 @@ The maximum capacity for this event is 60 participants.
 
 This event will be held <ins>**on-site only**</ins> at Eindhoven University of Technology on **October 16, 2025**. Details will be provided to all attendees over email.
 
-The event will start from 12:30 to 17:00. This even does not include lunch.
+The event will start from 13:00 to 17:30. This even does not include lunch.
 
 
 <br>
