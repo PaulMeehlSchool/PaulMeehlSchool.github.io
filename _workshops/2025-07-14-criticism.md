@@ -56,11 +56,11 @@ Workshops start from 9:30 to 16:30 with a lunch break from 12:30 to 13:30. Lunch
 
 ### Registration
 
-<p style="color:Tomato;"> Due to a previous cancellation, this workshop is being repeated. Priority will be given to those who originally signed up.</p>
+<p style="color:Tomato;"> Due to a previous cancellation, this workshop is being repeated. Those who originally signed up for this workshop are not automatically registered for this call, but they will recieve piority if they choose to sign up again.</p>
 
-To register for this workshop, please complete the following form by **December 14**. Note that your registration will be considered finalized only after receiving a confirmation email.  The registration link will remain open after this date if spots are still available.
+To register for this workshop, please complete the following form by **January 23**. Note that your registration will be considered finalized only after receiving a confirmation email.  The registration link will remain open after this date if spots are still available.
 
-[Registration Form](https://forms.office.com/Pages/ResponsePage.aspx?id=R_J9zM5gD0qddXBM9g78ZP_Kihp-VglPgWom9gajHXdUNFo1VUFHTjNTTkk0RzM5UVVHVjFYSDQxWS4u)
+[Registration Form](https://forms.office.com/Pages/ResponsePage.aspx?id=R_J9zM5gD0qddXBM9g78ZP_Kihp-VglPgWom9gajHXdUMjQwTUYxUkNNT0M1NDQzSzQ3VlQ0MVkwWi4u)
 
 <br>
 
