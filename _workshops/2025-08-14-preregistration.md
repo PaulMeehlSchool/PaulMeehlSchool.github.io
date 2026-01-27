@@ -25,7 +25,10 @@ An OSF account
 
 ## Reading Materials
 
-TBA
+**Optional reading:**
+
+Lakens, D. (2019). The value of preregistration for psychological science: A conceptual analysis. Japanese Psychological Review, 62(3), 221-230. (https://doi.org/10.24602/sjpr.62.3_221)[https://doi.org/10.24602/sjpr.62.3_221]
+
 <br>
 
 ### Capacity
