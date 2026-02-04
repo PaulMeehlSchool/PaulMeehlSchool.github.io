@@ -41,8 +41,7 @@ This course has a maximum capacity of 35 participants.
 
 This workshop will be held <ins>**on-site only**</ins> at Eindhoven University of Technology on **February 19, 2026**. Details will be provided to all attendees over email after registration for the workshop.
 
-Workshops start from 9:30 to 16:30 with a lunch break from 12:30 to 13:30. Lunch will not be provided but can be purchased at the university canteen or the on-campus supermarket. 
-
+Workshops start from 9:30 to 16:30 with a lunch break from 12:30 to 13:30. **Lunch will be provided, courtesy of the Open Science Community of Eindhoven.**
 <br>
 
 ### Registration
