@@ -41,7 +41,7 @@ Haans, A. (2008). What does it mean to be average?: the miles per gallon versus 
 
 Haans, A. (2018). Contrast analysis: A tutorial. Practical Assessment, Research & Evaluation, 23(9), 1-21. [https://doi.org/10.7275/7dey-zd62](https://doi.org/10.7275/7dey-zd62)
 
-Rosnow, R. L., & Rosenthal, R. (1995). “Some things you learn aren't so”: Cohen's paradox, Asch's paradigm, and the interpretation of interaction. Psychological Science, 6(1), 3-9. [ttps://doi.org/10.1111/j.1467-9280.1995.tb00297.x](ttps://doi.org/10.1111/j.1467-9280.1995.tb00297.x)
+Rosnow, R. L., & Rosenthal, R. (1995). “Some things you learn aren't so”: Cohen's paradox, Asch's paradigm, and the interpretation of interaction. Psychological Science, 6(1), 3-9. [https://doi.org/10.1111/j.1467-9280.1995.tb00297.x](https://doi.org/10.1111/j.1467-9280.1995.tb00297.x)
 
 <br>
 
