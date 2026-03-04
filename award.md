@@ -26,7 +26,7 @@ Early-career researchers applying for the Paul Meehl Graduate School dissertatio
 -	a resume, 
 -	proof of graduation,
 -	 a short motivation letter explaining why they believe their thesis should receive the award.
--	 
+  
 These materials should be submitted before June 1, 2026, to [paulmeehlgraduateschool@tue.nl](mailto:paulmeehlgraduateschool@tue.nl)
 
 
