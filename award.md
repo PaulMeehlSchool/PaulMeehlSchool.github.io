@@ -36,7 +36,7 @@ For the first edition of the award the jury will consist of the board members of
 
 # FAQs
 
-** 1.	I completed my PhD research at an institution outside the EU. Can I still apply?**
+**1.	I completed my PhD research at an institution outside the EU. Can I still apply?**
 
 No. This award is intended for researchers who were affiliated with a European university during their PhD, and specifically, one of the countries listed in the section *‘who can apply’*.
 
