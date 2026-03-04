@@ -11,7 +11,7 @@ By recognizing and incentivizing outstanding doctoral theses, we aim to align ou
 
 # Who can apply
 
-Applications are open for all scholars who have defended or will defend their PhD thesis within the period of the **1st of March, 2025**, to **June 1st, 2026**.
+Applications are open for all scholars who have defended or will defend their PhD thesis within the period of the **1st of March, 2024**, to **June 1st, 2026**.
 
 The PhD thesis is completed at a European university, in one of the following countries: 
 
