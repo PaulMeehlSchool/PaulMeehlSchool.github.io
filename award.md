@@ -76,6 +76,6 @@ August 15, 2026
 
 No. The submitted dissertation is evaluated, irrespective of whether any part of it has been published. The dissertation itself will not be made public as part of the award process. However, the winner is expected to give a presentation about their dissertation at the PMGS Meta-Research Symposium.
 
-**11.	Isn’t it ironic that metascientists create awards, given the current overly individualistic incentive structure in science? **
+**11.	Isn’t it ironic that metascientists create awards, given the current overly individualistic incentive structure in science?**
 
 We fully recognize that there are diverse perspectives on whether scientific awards are desirable or not. We respect the diversity in opinion. We believe some early-career researchers value the opportunity to receive an award that recognizes the contribution they have made through their research, and want to make it possible for these early-career metascientists to submit their work for a dissertation award.
