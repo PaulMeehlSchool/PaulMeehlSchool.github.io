@@ -13,4 +13,4 @@ topics like what cognitive models are, when and why they are useful and how they
 For further details about this workshop, click [here](https://paulmeehlschool.github.io/workshops/cognitive-model/). Please note that the workshop will be **exclusively in-person** on **April 20, 2026**. We look forward to seeing you in Eindhoven!
 
 You can register for this workshop by completing the [Registration Form](https://forms.office.com/Pages/ResponsePage.aspx?id=R_J9zM5gD0qddXBM9g78ZP_Kihp-VglPgWom9gajHXdURDJCVEtNQTVXVzkxMVFESEUzUEpHWEE4Ni4u). 
-Please make sure to register before <ins>**March 13**</ins>. As usual, the registration link will remain open after this date if spots are still available.
+Please make sure to register before <ins>**April 2**</ins>. As usual, the registration link will remain open after this date if spots are still available.
