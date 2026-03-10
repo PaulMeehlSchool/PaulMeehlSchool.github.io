@@ -1,9 +1,9 @@
 ---
 title: "New workshop announced: Computational Cognitive Models"
 layout: post
-cover-img: <img width="2000" height="1335" alt="image" src="https://github.com/user-attachments/assets/80d0fb9d-0da5-49a0-b2cf-bfc5c46a9d10" />
-thumbnail-img: <img width="2000" height="1335" alt="image" src="https://github.com/user-attachments/assets/80d0fb9d-0da5-49a0-b2cf-bfc5c46a9d10" />
-share-img: <img width="2000" height="1335" alt="image" src="https://github.com/user-attachments/assets/80d0fb9d-0da5-49a0-b2cf-bfc5c46a9d10" />
+cover-img: https://github.com/PaulMeehlSchool/PaulMeehlSchool.github.io/blob/master/assets/img/top-view-network-concept.jpg
+thumbnail-img: https://github.com/PaulMeehlSchool/PaulMeehlSchool.github.io/blob/master/assets/img/top-view-network-concept.jpg
+share-img: https://github.com/PaulMeehlSchool/PaulMeehlSchool.github.io/blob/master/assets/img/top-view-network-concept.jpg
 ---
 
 We are excited to announce that registration is now open for the workshop, “Computational Cognitive Models”. In this session, Leendert van Maanen and Dominik Bachmann will focus on a
