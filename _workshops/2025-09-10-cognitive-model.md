@@ -1,7 +1,7 @@
 ---
 title: Computational Cognitive Models
 subtitle: April 20, 2026
-author: Leendert van Maanen
+author: Leendert van Maanen and Dominik Bachmann
 layout: workshop_post
 ---
 
