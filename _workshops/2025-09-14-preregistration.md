@@ -1,6 +1,6 @@
 ---
 title: Preregistration in Practice
-subtitle: February 19, 2026
+subtitle: June 19, 2026
 author: Olmo van den Akker
 layout: workshop_post
 ---
@@ -39,7 +39,7 @@ This course has a maximum capacity of 35 participants.
 
 ### Time and Location
 
-This workshop will be held <ins>**on-site only**</ins> at Eindhoven University of Technology on **February 19, 2026**. Details will be provided to all attendees over email after registration for the workshop.
+This workshop will be held <ins>**on-site only**</ins> at Eindhoven University of Technology on **June 19, 2026**. Details will be provided to all attendees over email after registration for the workshop.
 
 Workshops start from 9:30 to 16:30 with a lunch break from 12:30 to 13:30. **Lunch will be provided, courtesy of the Open Science Community of Eindhoven.**
 <br>
