@@ -66,7 +66,7 @@ Jury members will first independently evaluate the thesis for the most impactful
 
 **8.	Is there a prize or recognition attached to the award?**
 
-The winner will be invited as a keynote speaker at the PMSG Meta Research Symposium on September 25, 2026, and receive the prize money of 1000 euro.
+The winner will be invited as a keynote speaker at the PMSG Meta Research Symposium on October 9, 2026, and receive the prize money of 1000 euro.
 
 **9.	When will the winner be announced?**
 
