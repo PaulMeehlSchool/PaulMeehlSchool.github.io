@@ -54,7 +54,7 @@ Metascience is an interdisciplinary field. PhD theses from the fields of metasci
 
 **5.	What is the submission deadline?**
 
-**June 1, 2026**. Late submissions will not be considered.
+**June 20, 2026**. Late submissions will not be considered.
 
 **6.	Can someone else nominate me, or do I need to apply myself?**
 
