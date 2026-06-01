@@ -10,7 +10,7 @@ We are delighted to announce the third edition of the **Paul Meehl Graduate Scho
 
 The event will take place on **October 8-9, 2025**, at **Eindhoven University of Technology**. It is designed to bring together early-career researchers and established experts to foster the exchange of ideas, community support, and networking among those interested in meta-research topics.
 
-The first day of this event will feature a mini-workshop and hackathon sessions, and the second day will focus on research presentations and keynote talks. More detailed program information will follow.
+The first day of this event will feature a mini-workshop and hackathon sessions (organised by Platform for Young MetaScientists), and the second day will focus on research presentations and keynote talks. More detailed program information will follow.
 
 The call for **20-minute presentation** and **3-hour hackathon** is now open. If you are an early-career researcher (Master’s student, PhD candidate, or postdoctoral researcher), you are invited to submit an abstract by completing the [participation form](https://forms.office.com/Pages/ResponsePage.aspx?id=R_J9zM5gD0qddXBM9g78ZP_Kihp-VglPgWom9gajHXdUNDE0SjVOVjZBMUhFUDhQMzJITEQzSUNRMi4u) by **July 15, 2025**.
 
