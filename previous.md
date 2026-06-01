@@ -29,8 +29,13 @@ title: Previous Workshops
 **2025-2026 Program**
 
 - [Pre-Symposium Mini-Workshop - Reproducible Research in Collaboration: Writing Academic Texts on GitHub Together](pastworkshops/thirdyear/2025-04-23-githubcoordination.md)
+  
 - [Paul Meehl Graduate School Meta Research Symposium 2025](pastworkshops/thirdyear/2025-05-23-symposium2025.md)
+  
 - [Quarto: Write, Code, Reproduce](pastworkshops/thirdyear/2025-06-14-quarto.md)
+  
 - [Scientific Criticism and Peer Review](pastworkshops/thirdyear/2025-07-14-criticism.md)
+  
 - [Advanced Basic Statistics Workshop: Deepening Your Understanding of Standard Statistical Analyses](pastworkshops/thirdyear/2025-09-09-analysis-knowledge.md)
+  
 - [Computational Cognitive Models](pastworkshops/thirdyear/2025-09-10-cognitive-model.md)
