@@ -46,7 +46,7 @@ Workshops start from 9:30 to 16:30 with a lunch break from 12:30 to 13:30. Lunch
 
 ### Registration
 
-To register for this workshop, please complete the following form by **February 13**. Note that your registration will be considered finalized only after receiving a confirmation email.  The registration link will remain open after this date if spots are still available.
+To register for this workshop, please complete the following form by **June 5**. Note that your registration will be considered finalized only after receiving a confirmation email.  The registration link will remain open after this date if spots are still available.
 
 [Registration Form](https://forms.office.com/Pages/ResponsePage.aspx?id=R_J9zM5gD0qddXBM9g78ZP_Kihp-VglPgWom9gajHXdUODY0VlJORjJFWUExVlczSzhFUU1PVDVLOC4u)
 
