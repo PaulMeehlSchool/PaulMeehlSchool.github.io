@@ -1,0 +1,46 @@
+---
+title:  "Psychological Constructs and Measurements"
+subtitle: April, 2027
+author: GJ Peters and Rik Crutzen
+layout: workshop_post
+---
+
+## Course Description
+
+TBA
+
+<br>
+
+## Prerequisites 
+
+TBA
+
+<br>
+
+## Reading Materials
+
+TBA
+
+<br>
+
+### Capacity
+
+This course has a maximum capacity of 35 participants.
+
+<br>
+
+### Time and Location
+
+This workshop will be held <ins>**on-site only**</ins> at Eindhoven University of Technology on **April, 2027**. Details will be provided to all attendees over email after registration for the workshop.
+
+Workshops start from 9:30 to 16:30 with a lunch break from 12:30 to 13:30. Lunch will not be provided but can be purchased at the university canteen or the on-campus supermarket. 
+
+<br>
+
+### Registration
+
+This workshop is not yet open for registration.
+
+<br>
+
+### Instructors
