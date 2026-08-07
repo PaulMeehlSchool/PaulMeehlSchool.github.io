@@ -1,5 +1,5 @@
 ---
-title:  "Evaluating Predicting Accuracy"
+title:  "Evaluating Predictive Accuracy"
 subtitle: November 27, 2026
 author: Benny Markovitch
 layout: workshop_post
