@@ -6,7 +6,7 @@ thumbnail-img:  ./assets/img/10173649_8601.jpg
 share-img:  ./assets/img/10173649_8601.jpg
 ---
 
-We are delighted to announce **Charlotte Rulkens as the winner of the 2026 Paul Meehl Graduate School Dissertation Award!**
+We are delighted to announce **Charlotte Rulkens** as the winner of the **2026 Paul Meehl Graduate School Dissertation Award!**
 
 Her dissertation, **“Rembrandt and Rubens Revisited: Towards more Transparent and Replicable Attributions,”** has been selected as the winning dissertation for this edition of the award. We warmly congratulate Charlotte on this achievement and are very pleased to recognize her work with this award.
 
