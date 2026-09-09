@@ -39,3 +39,7 @@ title: Previous Workshops
 - [Advanced Basic Statistics Workshop: Deepening Your Understanding of Standard Statistical Analyses](pastworkshops/thirdyear/2025-09-09-analysis-knowledge.md)
   
 - [Computational Cognitive Models](pastworkshops/thirdyear/2025-09-10-cognitive-model.md)
+
+- [Theoretical Agent‐Based Models](pastworkshops/thirdyear/2025-09-12-agent-model.md)
+
+- [Preregistration in Practice](pastworkshops/thirdyear/2025-09-14-preregistration.md)
