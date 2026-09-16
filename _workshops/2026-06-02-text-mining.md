@@ -72,5 +72,5 @@ Rasoul Norouzi is a PhD candidate in social science at Tilburg University. His r
 
 **Dr Erik Tjong Kim Sang**
 
-
+Erik Tjong Kim Sang studied Electrical Engineering at the University of Delft and obtained a PhD in computational linguistics at the University of Groningen. Next, he worked as a postdoc and teacher at the universities of Uppsala (Sweden), Antwerp (Belgium), Tilburg, Amsterdam and Groningen. After a postdoc position at the Meertens Institute in Amsterdam, he joined the Netherlands eScience Center as a Senior Research Software Engineer in 2017. Erik has worked on a variety of computational linguistics topics, for example orthographic modeling, syntactic analysis, semantic analysis, named entity recognition, machine translation, summarization, question answering, dialect modeling and analysis of social media text. In his work, he has frequently used machine learning techniques.
 
