@@ -1,7 +1,7 @@
 ---
 title:  "Text Mining Systematic Reviews"
 subtitle: December 16, 2026
-author: Rasoul Norouzi & Erik Tjong Kim Sang
+author: Rasoul Norouzi, Erik Tjong Kim Sang, and Dirk Wulff
 layout: workshop_post
 ---
 
@@ -74,3 +74,6 @@ Rasoul Norouzi is a PhD candidate in social science at Tilburg University. His r
 
 Erik Tjong Kim Sang studied Electrical Engineering at the University of Delft and obtained a PhD in computational linguistics at the University of Groningen. Next, he worked as a postdoc and teacher at the universities of Uppsala (Sweden), Antwerp (Belgium), Tilburg, Amsterdam and Groningen. After a postdoc position at the Meertens Institute in Amsterdam, he joined the Netherlands eScience Center as a Senior Research Software Engineer in 2017. Erik has worked on a variety of computational linguistics topics, for example orthographic modeling, syntactic analysis, semantic analysis, named entity recognition, machine translation, summarization, question answering, dialect modeling and analysis of social media text. In his work, he has frequently used machine learning techniques.
 
+**Dr Dirk Wulff**
+
+Dirk U. Wulff is a senior researcher at the Max Planck Institute for Human Development in Berlin, where he specializes in leveraging big data to explore human decision-making and cognition. He is also the founder of The R Bootcamp and brings extensive experience in helping professionals unlock the power of data storytelling. Dirk is also a Senior Adjunct Researcher at the Center for Cognitive and Decision Science at the University of Basel. His work lies at the intersection of psychology, artificial intelligence, and metascience, and it draws on various methodological approaches, from behavioral experiments to large language mod-els. In addition to his academic work, he is active in data science education for academic and private institutions.
