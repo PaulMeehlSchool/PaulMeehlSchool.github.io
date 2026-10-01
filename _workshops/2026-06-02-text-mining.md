@@ -1,5 +1,5 @@
 ---
-title:  "Text Mining Systematic Reviews"
+title:  "Automating Retrieval and Textual Analysis of Scientific Papers"
 subtitle: December 16, 2026
 author: Rasoul Norouzi, Erik Tjong Kim Sang, and Dirk Wulff
 layout: workshop_post
