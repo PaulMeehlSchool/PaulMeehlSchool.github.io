@@ -57,7 +57,9 @@ Workshops start from 9:30 to 16:30 with a lunch break from 12:30 to 13:30. Lunch
 
 ### Registration
 
-This workshop is not yet open for registration.
+To register for this workshop, please complete the following form by **November 10**. Note that your registration will be considered finalized only after receiving a confirmation email. The registration link will remain open after this date if spots are still available.
+
+[Registration Form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=R_J9zM5gD0qddXBM9g78ZP_Kihp-VglPgWom9gajHXdUNVpCRUxTS0w3TUlKM0hZVUxRWVRJMkRLUS4u)
 
 <br>
 
