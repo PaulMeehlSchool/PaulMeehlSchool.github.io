@@ -1,7 +1,7 @@
 ---
 title:  "Automating Retrieval and Textual Analysis of Scientific Papers"
 subtitle: December 16, 2026
-author: Rasoul Norouzi, Erik Tjong Kim Sang, and Dirk Wulff
+author: Rasoul Norouzi, Erik Tjong Kim Sang, Dirk Wulff, and Daniel Lakens
 layout: workshop_post
 ---
 
@@ -34,7 +34,7 @@ This workshop is for:
 - Anyone who wants to extract and visualize the causal theory embedded in a field’s published literature
 - People curious about NLP tools but with no background in machine learning
 
-You need basic Python familiarity. Nothing else is assumed.
+You need basic Python familiarity is needed for the first part of the workshop. Nothing else is assumed.
 
 <br>
 
@@ -60,7 +60,9 @@ Workshops start from 9:30 to 16:30 with a lunch break from 12:30 to 13:30. Lunch
 
 ### Registration
 
-This workshop is not yet open for registration.
+To register for this workshop, please complete the following form by **December 4th**. Note that your registration will be considered finalized only after receiving a confirmation email. The registration link will remain open after this date if spots are still available.
+
+[Registration Form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=R_J9zM5gD0qddXBM9g78ZP_Kihp-VglPgWom9gajHXdUQkNJUVlBNEE0OFlBQzhZREVLR05PMDlYUS4u)
 
 <br>
 
@@ -77,3 +79,8 @@ Erik Tjong Kim Sang studied Electrical Engineering at the University of Delft an
 **Dr Dirk Wulff**
 
 Dirk U. Wulff is a senior researcher at the Max Planck Institute for Human Development in Berlin, where he specializes in leveraging big data to explore human decision-making and cognition. He is also the founder of The R Bootcamp and brings extensive experience in helping professionals unlock the power of data storytelling. Dirk is also a Senior Adjunct Researcher at the Center for Cognitive and Decision Science at the University of Basel. His work lies at the intersection of psychology, artificial intelligence, and metascience, and it draws on various methodological approaches, from behavioral experiments to large language mod-els. In addition to his academic work, he is active in data science education for academic and private institutions.
+
+**Dr Daniel Lakens**
+
+Daniel Lakens is an Associate Professor in the Human-Technology interaction group at Eindhoven University of Technology (TU/e). His areas of expertise include meta-science, research methods, and applied statistics. 
+
