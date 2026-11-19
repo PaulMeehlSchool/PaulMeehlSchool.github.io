@@ -18,7 +18,7 @@ On 8-9 October 2026, the Paul Meehl Graduate School, in collaboration with the P
 The first day opened with a workshop led by Gilad Feldman on how to use AI tools, agents, LLMs, and automation to improve open science practices. It was followed by collaborative hackathon sessions led by Peder Mortvedt Isager, Caspar van Lissa, and Metin Bulus. We wrapped up the day with open science games and networking, organized by PYMS.
 
 <p align="center">
-<img src="../assets/img/_IMG_1112.JPG" alt="Paul Meehl Graduate School Meta Research Symposium 2026" width="50%">
+<img src="../assets/img/mg1234.jpg" alt="Paul Meehl Graduate School Meta Research Symposium 2026" width="50%">
 </p>
 
 **Day 2: Keynotes and early-career talks**
