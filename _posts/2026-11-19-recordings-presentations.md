@@ -9,14 +9,17 @@ share-img: 		./assets/img/vecteezy_public-meetings-and-conferences_.jpg
 
 On 8-9 October 2026, the Paul Meehl Graduate School, in collaboration with the Platform for Young Meta-Scientists (PYMS), hosted the third edition of its Annual Meta Research Symposium at Eindhoven University of Technology. Over two days, early-career researchers and established experts came together to exchange ideas, share research, and explore current challenges and opportunities in metascience.
 
+<p align="center">
 <img src="../assets/img/_MG_1234.JPG" alt="Paul Meehl Graduate School Meta Research Symposium 2026" width="50%">
+</p>
 
 **Day 1: Workshop, hackathons, and games**
 
 The first day opened with a workshop led by Gilad Feldman on how to use AI tools, agents, LLMs, and automation to improve open science practices. It was followed by collaborative hackathon sessions led by Peder Mortvedt Isager, Caspar van Lissa, and Metin Bulus. We wrapped up the day with open science games and networking, organized by PYMS.
 
+<p align="center">
 <img src="../assets/img/_IMG_1112.JPG" alt="Paul Meehl Graduate School Meta Research Symposium 2026" width="50%">
-
+</p>
 
 **Day 2: Keynotes and early-career talks**
 
@@ -35,8 +38,10 @@ We then heard presentations from early-career researchers:
 - Raphael Merz on how comparing the effects of different interventions that manipulate the same target state can inform causal theorizing.
 
 
-<img src="../assets/img/_MG_1298.JPG" alt="Paul Meehl Graduate School Meta Research Symposium 2026" width="48%">
-<img src="../assets/img/_MG_1342.JPG" alt="Paul Meehl Graduate School Meta Research Symposium 2026" width="48%">
+<div style="display: flex; gap: 2%; justify-content: center;">
+  <img src="../assets/img/_MG_1298.JPG" alt="Participants at the Meta Research Symposium 2026" style="width: 49%;">
+  <img src="../assets/img/_MG_1342.JPG" alt="Speaker at the Meta Research Symposium 2026" style="width: 49%;">
+</div>
   
 **Watch the recordings**
 
