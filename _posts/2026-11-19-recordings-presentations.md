@@ -35,8 +35,8 @@ We then heard presentations from early-career researchers:
 - Raphael Merz on how comparing the effects of different interventions that manipulate the same target state can inform causal theorizing.
 
 
-<img src="./assets/img/_MG_1298.JPG" alt="Paul Meehl Graduate School Meta Research Symposium 2026" width="48%">
-<img src="./assets/img/_MG_1342.JPG" alt="Paul Meehl Graduate School Meta Research Symposium 2026" width="48%">
+<img src="../assets/img/_MG_1298.JPG" alt="Paul Meehl Graduate School Meta Research Symposium 2026" width="48%">
+<img src="../assets/img/_MG_1342.JPG" alt="Paul Meehl Graduate School Meta Research Symposium 2026" width="48%">
   
 **Watch the recordings**
 
